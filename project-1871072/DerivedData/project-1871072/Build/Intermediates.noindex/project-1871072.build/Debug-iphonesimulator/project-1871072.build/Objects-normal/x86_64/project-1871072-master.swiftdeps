@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
+options: "bc14ed4dc9f1f205147daf9c2648c573"
+build_time: [1622106282, 701061000]
+inputs:
+  "/Users/gimhanbich/Desktop/iOS-class/project/project-1871072/project-1871072/Item.swift": [1622106018, 134288500]
+  "/Users/gimhanbich/Desktop/iOS-class/project/project-1871072/project-1871072/ItemGroupViewController.swift": [1622106282, 628655066]
+  "/Users/gimhanbich/Desktop/iOS-class/project/project-1871072/project-1871072/ItemDetailViewController.swift": [1622105892, 78986726]
+  "/Users/gimhanbich/Desktop/iOS-class/project/project-1871072/project-1871072/ItemGroup.swift": [1621498846, 598094746]
+  "/Users/gimhanbich/Desktop/iOS-class/project/project-1871072/project-1871072/AppDelegate.swift": [1621494801, 518434259]
+  "/Users/gimhanbich/Desktop/iOS-class/project/project-1871072/project-1871072/SceneDelegate.swift": [1621494801, 521050200]
